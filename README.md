@@ -1,6 +1,4 @@
-# 👋 Salut, je m'appelle Max
-
- ## 🎓 À propos de moi
+## 🎓 À propos de moi
 - Lycéen en classe de terminale (NSI, Math, Math Expert)
 - Intéressé par l'informatique, les jeux vidéo, le sport et la lecture
 - Objectif : progresser en programmation et créer des projets utiles
