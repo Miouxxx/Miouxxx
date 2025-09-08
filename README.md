@@ -15,7 +15,7 @@
 - 📚 Lecture  
 
 ## 📫 Me contacter
-- Email : *mioux1801@gmail.com*    
+- [Email](*mioux1801@gmail.com*)   
 - [GitHub](https://github.com/Miouxxx) 
 
 ✨ *Toujours motivé à apprendre de nouvelles choses et à progresser !*
