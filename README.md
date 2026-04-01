@@ -1,23 +1,78 @@
-## 🎓 À propos de moi
-- Lycéen en classe de terminale (NSI, Math, Math Expert)
-- Intéressé par l'informatique, les jeux vidéo, le sport et la lecture
-- Objectif : progresser en programmation et créer des projets utiles
+<div align="center">
 
-## 💻 Compétences
-- Langages : Python, HTML/CSS, un peu de C++ et C#
-- Outils : Git, GitHub, VS Code et Godot
-- Projet en cours : Traducteur de EPub
+# Salut, moi c'est Mioux ^^
 
-## 🎯 Centres d'intérêt
-- 🏸 Badminton  
-- 💻 Programation  
-- 🎮 Jeux vidéo  
-- 📚 Lecture  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Lycéen+passionné+de+code+%F0%9F%92%BB;Développeur+en+herbe+%F0%9F%8C%B1;Toujours+en+train+d'apprendre+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-## 📫 Me contacter
-- [Email](*mioux1801@gmail.com*)   
-- [GitHub](https://github.com/Miouxxx) 
+</div>
+
+---
+
+## À propos de moi
+
+Lycéen en **Terminale** avec les spécialités **NSI**, **Maths** et **Maths Expertes**.  
+Passionné par la programmation, je construis des projets concrets pour progresser et créer des choses utiles.
+
+-  **Projet en cours :** Bureau Linux personnalisé 🐧
+-  **En train d'apprendre :** QML & Qt
+-  **Objectif :** Progresser en programmation et contribuer à des projets open-source
+-  **Fun fact :** Je code autant que je joue 🎮
+
+---
+
+## Compétences
+
+### Langages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+### Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+---
+
+## Statistiques GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miouxxx&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miouxxx&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Miouxxx&theme=tokyonight&hide_border=true&locale=fr)
+
+</div>
+
+---
+
+## Centres d'intérêt
+
+| 🏸 Badminton | 💻 Programmation | 🎮 Jeux vidéo | 📚 Lecture |
+|:---:|:---:|:---:|:---:|
+
+---
+
+## Me contacter
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mioux1801@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miouxxx)
+
+</div>
+
+---
+
+<div align="center">
 
 ✨ *Toujours motivé à apprendre de nouvelles choses et à progresser !*
 
-![](https://www.everland-petfood.com/wp-content/uploads/chat-courrir-1024x683.jpeg.webp)
+![](https://komarev.com/ghpvc/?username=Miouxxx&color=6C63FF&style=flat-square&label=Visiteurs)
+
+</div>
