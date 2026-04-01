@@ -1,22 +1,21 @@
 <div align="center">
 
-# Salut, moi c'est Mioux ^^
+# Mioux
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Lycéen+passionné+de+code+%F0%9F%92%BB;Développeur+en+herbe+%F0%9F%8C%B1;Toujours+en+train+d'apprendre+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Lycéen+passionné+de+programmation;Développeur+en+herbe;Toujours+en+train+d'apprendre)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## À propos de moi
+## À propos
 
-Lycéen en **Terminale** avec les spécialités **NSI**, **Maths** et **Maths Expertes**.  
+Lycéen en **Terminale** avec les spécialités **NSI**, **Mathématiques** et **Mathématiques Expertes**.  
 Passionné par la programmation, je construis des projets concrets pour progresser et créer des choses utiles.
 
--  **Projet en cours :** Bureau Linux personnalisé 🐧
--  **En train d'apprendre :** QML & Qt
--  **Objectif :** Progresser en programmation et contribuer à des projets open-source
--  **Fun fact :** Je code autant que je joue 🎮
+- **Projet en cours :** Bureau Linux personnalisé
+- **En apprentissage :** QML & Qt
+- **Objectif :** Progresser en programmation et contribuer à des projets open-source
 
 ---
 
@@ -31,9 +30,8 @@ Passionné par la programmation, je construis des projets concrets pour progress
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
 
@@ -53,12 +51,12 @@ Passionné par la programmation, je construis des projets concrets pour progress
 
 ## Centres d'intérêt
 
-| 🏸 Badminton | 💻 Programmation | 🎮 Jeux vidéo | 📚 Lecture |
+| Badminton | Programmation | Jeux vidéo | Lecture |
 |:---:|:---:|:---:|:---:|
 
 ---
 
-## Me contacter
+## Contact
 
 <div align="center">
 
@@ -71,7 +69,7 @@ Passionné par la programmation, je construis des projets concrets pour progress
 
 <div align="center">
 
-✨ *Toujours motivé à apprendre de nouvelles choses et à progresser !*
+*Toujours motivé à apprendre et à progresser.*
 
 ![](https://komarev.com/ghpvc/?username=Miouxxx&color=6C63FF&style=flat-square&label=Visiteurs)
 
