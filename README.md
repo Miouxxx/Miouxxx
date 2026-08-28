@@ -10,7 +10,7 @@
 
 ## À propos
 
-Lycéen en **Terminale** avec les spécialités **NSI**, **Mathématiques** et **Mathématiques Expertes**.  
+Étudiant en **BUT Informatique** à l'IUT **Sénat-Fontaibleau**
 Passionné par la programmation, je construis des projets concrets pour progresser et créer des choses utiles.
 
 - **Projet en cours :** Bureau Linux personnalisé
