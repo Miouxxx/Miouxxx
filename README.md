@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mioux
+# Max Launay-Tronchet
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Lycéen+passionné+de+programmation;Développeur+en+herbe;Toujours+en+train+d'apprendre)](https://git.io/typing-svg)
 
